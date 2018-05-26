@@ -1,0 +1,275 @@
+*{
+            padding:0;
+            margin:0;
+        }
+        .body{
+        	width: 1560px;
+        	height: 3497px;
+        	margin:0 auto;
+        }
+        .header{
+        	background-color: rgb(249,249,249);
+        }
+        .nav{
+        	height: 46px;
+        	background-color: rgb(249,249,249);
+        	background-image: url(img/two.png);
+        	background-repeat: no-repeat;
+        	background-position: center;
+        }
+        .shouye{        	
+        	padding-left: 472px;        	
+        	font-family: '微软雅黑';
+        	font-size: 14px;   
+        	padding-top: 15px;
+        	float: left;         	      	        	        	     	    	
+        }
+        a:hover{       	
+        	text-decoration: underline;
+        	color: rgb(30,80,174);
+        }
+        .text1{        	        	     	     
+        	font-family: '微软雅黑';
+        	font-size: 14px;   
+        	padding-left: 62px;
+        	padding-top: 15px;
+        	float: left;         	
+        	 	
+        }
+        .body3{
+        	width: 1560px;
+        	height: 670px;
+        	background-color: rgb(245,245,245);
+        }
+        .text2{
+        	padding-top: 82px;
+        	text-align: center;
+        	font-family: '微软雅黑';
+        	font-size: 34px;
+        }
+        .text3{
+        	margin-top: 10px;
+        	text-align: center; 
+        	font-family: '[Aparajita]';      	
+        	font-size: 25px;
+        }
+        .fpicture{
+        	margin-left: 248px;
+        	margin-top: 63px;
+        	float: left;
+        }
+        .picture1{
+        	margin-left: 156px;
+        	margin-top: 63px;
+        	float: left;
+
+        }
+        .ftext{
+        	margin-left: 289px;
+        	margin-top: 24px;
+        	float: left;
+        	font-family: '微软雅黑';
+        	font-size: 16px;
+        }
+        .text4{
+        	margin-left: 235px;
+        	margin-top: 24px;
+        	float: left;
+        	font-family: '微软雅黑';
+        	font-size: 16px;
+        }
+        .ftext2{
+        	margin-left: 285px;
+        	margin-top: 20px;
+        	float: left;
+        	font-family: '微软雅黑';
+        	font-size: 14px;
+        	color: rgb(200,200,200);
+        }
+        .li0>li{
+        	margin: 12px;
+        }
+        .text5{
+        	margin-left: 200px;
+        	margin-top: 20px;
+        	float: left;
+        	font-family: '微软雅黑';
+        	font-size: 14px;
+        	color: rgb(200,200,200);
+        }
+        .body7{
+        	height: 138px;
+        	width: 1560px;
+        	background-color:  rgb(245,245,245);
+        	float: left;
+        }
+        .fpicture2{
+        	margin-left: 248px;       	  
+        	float: left;      	
+        	
+        }
+        .picture2{
+        	margin-left: 156px;       	
+        	float: left;
+
+        }     
+        .ftext3{
+        	margin-left: 270px;
+        	margin-top: 24px;
+        	float: left;
+        	font-family: '微软雅黑';
+        	font-size: 16px;
+        }
+        .text6{
+        	margin-left: 210px;
+        	margin-top: 24px;
+        	float: left;
+        	font-family: '微软雅黑';
+        	font-size: 16px;
+        }
+
+        .body10{
+        	width: 1560px;
+        	height: 712px;
+       		       
+        }
+        .logo{       	
+        	position: absolute;
+        	top: 2080px;
+        	left: 850px;	       	
+        }
+        .body11{
+        	height: 908px;
+        	width: 1560px;
+        }
+        .text7{
+        	margin-top: 60px;      	
+        	font-family: '微软雅黑';
+        	font-size: 34px;
+        	text-align: center;
+        }
+        .text8{
+        	margin-top: 10px;
+        	text-align: center; 
+        	font-family: '[Aparajita]';      	
+        	font-size: 25px;
+        }
+        .picture3{
+        	text-align: center;
+        }
+        .text9{
+        	height: 347px;
+        	width: 1560px;       	
+        }
+        .text91{
+        	margin-left: 248px;
+        	margin-right: 46px;
+        	float: left;
+
+        }
+        .text92{       	
+        	float: left;
+
+        }
+        .body12{
+        	width: 1560px;
+        	height: 102px;
+        	background-image: url(img/nine.png);
+        	background-repeat: no-repeat;
+        	background-position: center;
+        }
+        .ftext10{
+        	padding-top: 33px;
+        	margin-left: 300px;  
+        	font-family: '微软雅黑';
+        	font-size: 19px;  	
+        	
+        }
+        .ftext11{
+        	margin-left: 300px;  
+        	font-family: '微软雅黑';
+        	font-size: 13px;  	
+
+        }
+        .text10{
+        	padding-top: 33px;
+        	margin-left: 177px;
+        	font-family: '微软雅黑';
+        	font-size: 19px;  
+        		
+        }
+        .text11{       	
+        	margin-left: 177px;  
+        	font-family: '微软雅黑';
+        	font-size: 13px;  	
+        	
+        }
+        .body13{
+        	width: 1560px;
+        	height: 262px;
+        	background-color: rgb(50,50,50);
+        	border-bottom: 1px solid white;
+        }
+        .ftext12{
+        	padding-top: 76px;
+        	margin-left: 187px;
+        	font-family: '微软雅黑';
+        	font-size: 18px;  	
+        	color: white;
+        	float: left;
+        }
+        .text12{
+        	padding-top: 76px;
+        	margin-left: 104px;
+        	font-family: '微软雅黑';
+        	font-size: 18px;  	
+        	color: white;
+        	float: left;
+        }
+        .left{
+        	width: 795px;
+        }
+        .ftext13{
+        	margin-left: 173px;
+        	margin-top: 31px;        	
+        	font-family: '微软雅黑';
+        	font-size: 14px;  	
+        	color: white;
+        	float: left;
+        }
+        .text13{
+        	margin-left: 100px;
+        	margin-top: 31px;        	
+        	font-family: '微软雅黑';
+        	font-size: 14px;  	
+        	color: white;
+        	float: left;
+        }
+        .li1>li{
+        	margin:12px;
+        	list-style: none;
+        }
+        .right{       	
+        	width: 765px;  
+        	float: right;   	
+        }
+        .sign{       	
+        	margin-left: 100px;         	      	
+        	position: absolute;
+        	top: 3353px;
+        }
+        .body14{
+        	height: 125px;
+        	width: 1560px;
+        	background-color: rgb(50,50,50);
+        }
+        .text14{
+        	padding-top: 40px;
+        	text-align: center;
+        	font-family: '微软雅黑';
+        	font-size: 14px;  	
+        	color: white;
+        }
+        .picture4{
+        	margin-left: 634px;
+        }
